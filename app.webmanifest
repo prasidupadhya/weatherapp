@@ -1,0 +1,15 @@
+{
+    "background_color": "#5896f0",
+    "description": "Vayu",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "images/weather.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ],
+    "name": "Vayu, Weather App",
+    "short_name": "Vayu",
+    "start_url": "/vayu/index.html"
+  }
